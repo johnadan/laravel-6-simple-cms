@@ -8,7 +8,7 @@
         "php": "^7.2",
 		"biscolab/laravel-recaptcha": "3.6.1",
 		"barryvdh/laravel-elfinder": "0.4.7",
-        "barryvdh/laravel-snappy": "0.4.5",
+        "barryvdh/laravel-snappy": "0.4.8",
 		"cviebrock/eloquent-sluggable": "6.0.0",
 		"fideloper/proxy": "4.2.1",
 		"h4cc/wkhtmltoimage-amd64": "0.12.4",
