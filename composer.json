@@ -14,7 +14,7 @@
 		"h4cc/wkhtmltoimage-amd64": "0.12.4",
 		"h4cc/wkhtmltopdf-amd64": "0.12.4",
 		"laracasts/flash": "3.0.3",
-        "laravel/framework": "6.20.10",
+        "laravel/framework": "6.20.11",
 		"laravel/tinker": "1.0.10",
 		"predis/predis": "1.1.6",
 		"spatie/laravel-analytics": "3.8.0",
