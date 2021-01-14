@@ -16,9 +16,16 @@
 		"laracasts/flash": "3.0.3",
         "laravel/framework": "6.20.10",
 		"laravel/tinker": "1.0.10",
+
+		"spatie/laravel-analytics": "3.10.2",
+
 		"predis/predis": "1.1.6",
+
+		
+
 		"spatie/laravel-analytics": "3.8.0",
 		"yajra/laravel-datatables-buttons": "4.10.4",
+
 		"yajra/laravel-datatables-oracle": "9.6.0"
 	},
 	"require-dev": {
