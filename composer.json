@@ -32,7 +32,7 @@
 	},
 	"require-dev": {
 		"barryvdh/laravel-debugbar": "3.6.7",
-		"barryvdh/laravel-ide-helper": "2.9.0",
+		"barryvdh/laravel-ide-helper": "2.12.3",
 		"doctrine/dbal": "3.3.7",
         "facade/ignition": "1.16.15",
         "fzaninotto/faker": "1.9.2",
