@@ -37,7 +37,7 @@
         "facade/ignition": "1.16.15",
         "fzaninotto/faker": "1.9.2",
 		"laravel/browser-kit-testing": "5.2.0",
-        "mockery/mockery": "1.4.2",
+        "mockery/mockery": "1.5.0",
         "nunomaduro/collision": "5.3.0",
         "phpunit/phpunit": "9.5.2"
 	},
