@@ -16,7 +16,7 @@
 		"laracasts/flash": "3.0.3",
 
         "laravel/framework": "8.83.16",
-		"laravel/tinker": "2.6.0",
+		"laravel/tinker": "2.7.2",
 
 
 		"spatie/laravel-analytics": "3.10.2",
