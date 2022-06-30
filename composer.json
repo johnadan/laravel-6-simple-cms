@@ -31,7 +31,7 @@
 		"yajra/laravel-datatables-oracle": "10.0.7"
 	},
 	"require-dev": {
-		"barryvdh/laravel-debugbar": "3.6.7",
+		"barryvdh/laravel-debugbar": "3.6.8",
 		"barryvdh/laravel-ide-helper": "2.12.3",
 		"doctrine/dbal": "3.3.7",
         "facade/ignition": "2.17.5",
