@@ -22,7 +22,7 @@
     "dependencies": {
         "bulma": "0.9.4",
         "datatables-bulma": "1.0.1",
-        "datatables.net": "1.13.2",
+        "datatables.net": "1.13.11",
         "datatables.net-buttons": "2.3.4",
 
         "trumbowyg": "2.26.0",
