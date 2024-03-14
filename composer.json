@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-        "php": "^7.2",
+        "php": "^8.0",
 		"biscolab/laravel-recaptcha": "5.0.1",
 		"barryvdh/laravel-elfinder": "0.5.1",
         "barryvdh/laravel-snappy": "1.0.0",
