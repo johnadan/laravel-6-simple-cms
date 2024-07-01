@@ -6,7 +6,7 @@
 	"type": "project",
 	"require": {
         "php": "^7.2",
-		"biscolab/laravel-recaptcha": "5.0.1",
+		"biscolab/laravel-recaptcha": "6.1.0",
 		"barryvdh/laravel-elfinder": "0.5.1",
         "barryvdh/laravel-snappy": "1.0.0",
 		"cviebrock/eloquent-sluggable": "9.0.0",
